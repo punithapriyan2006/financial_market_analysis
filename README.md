@@ -31,3 +31,8 @@ This project analyzes financial market data using Python. It provides insights i
 You can view the dashboard report here:
 
 - [Download Dashboard PDF](fsd_assign_2_merged.pdf)
+- ## 🚀 Run on Google Colab
+
+You can open and run this project directly in Google Colab:
+
+👉 [Open in Colab](https://colab.research.google.com/drive/1rj0Yf-zqwdWdeYkRsntR7thjdCK-xuiq?usp=drive_link)
